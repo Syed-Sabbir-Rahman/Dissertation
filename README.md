@@ -1,4 +1,4 @@
-# Dissertation
+# Identification of skull sutures from CT scan
 
 # Project Objectives 
 The primary objectives of this project are to design and implement a convolutional neural network (CNN) capable of accurately identifying skull sutures in CT scans of synapsids from the NHM collection. This tool aims to advance our comprehension of synapsid skull structure and evolution, facilitating detailed morphological analyses. Additionally, the project seeks to establish a methodology that can be applied to broader paleontological and evolutionary biology research, enhancing our understanding of vertebrate development and evolution.
